@@ -1,5 +1,12 @@
-require 'bundler/setup'
+=begin
++-------------------------+                                                                                                   
+|  LANGTON'S ANT          |                                                                                                   
+|  #173-I                 |                                                                                                   
+|  http://redd.it/2c4ka3  |                                                                                                   
++-------------------------+  
+=end
 
+require 'bundler/setup'
 require 'chunky_png'
 
 class Ant
